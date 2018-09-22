@@ -1,0 +1,8 @@
+{
+"firstName": "Joshua",
+"lastName": "Durant",
+"displayHandle": "jDurant",
+"posts": ["Goodmorning!", "Goodafternoon!", "Goodevening!"],
+"age": 25,
+"active":true
+}
