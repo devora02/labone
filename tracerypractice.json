@@ -1,0 +1,42 @@
+{
+	"occupation": [
+		"Nurse",
+		"Gang Member",
+		"Computer Engineer",
+		"Dancer",
+		"Chef"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #action#."
+	],
+	"always": [
+		"repeatedly",
+		"constantly",
+		"never",
+		"rarely"
+	],
+	"expecting": [
+		"anticipating",
+		"presuming",
+		"believing",
+		"imagining"
+	],
+	"action": [
+		"food",
+		"fight",
+		"kill",
+		"error"
+	],
+	"name": [
+		"Hatton",
+		"Marquez",
+		"Ali",
+		"John",
+		"Jacob"
+	],
+	"yourname": [
+		"James",
+		"Hatton",
+		"Kobe",
+		"John"
+	]
